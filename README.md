@@ -4,7 +4,7 @@
 <h3 align="center">A beginner developer from Pakistan</h3>
 
 <p align="left"> <img align="right"
-  alt="coding" width="300"  src="https://dribbble.com/shots/7078466-Personal-Resume-CV" alt="soniyamuhammaddawood" /> </p>
+  alt="coding" width="300"  src="https://dribbble.com/shots/7078466-Personal-Resume-CV/attachments/79891?mode=media" alt="soniyamuhammaddawood" /> </p>
 
 - 🔭 I’m currently working on **100 days of coding**
 
